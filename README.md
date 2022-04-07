@@ -21,3 +21,7 @@
  - NavMeshes - NavMeshes are a lot of fun! Creating them after runtime not so much! Especially in Augmented Reality, but i did it!
  - Linear Algebra - This was the first project where I had to utilize in-depth knowledge of working with vectors. The length of the vector between the Ammo's starting postion and the position of the end of the drag affects teh force applied to the ammo.
  - Gravity - Applying physics so that its relative for the proximity of the objects and to you.
+
+## Developer
+I'm Stratton Brooks, an XR developer based in Tulsa, OK. I'm Native American. I specialize in Unity and WebXR.
+[Linkedin](https://www.linkedin.com/in/stratton-brooks/)
